@@ -1,0 +1,11 @@
+Package: com.miro.liblottie
+Name: libLottie
+Depends: firmware (>=11.0)
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.liblottie
+Description: Lottie animations library.
+Maintainer: MiRO <tweaks_support@miro92.com>
+Author: MiRO <tweaks_support@miro92.com>
+Section: System
+Tag: role::developer, compatible_min::ios11, compatible_max::ios14
